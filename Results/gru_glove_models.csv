@@ -1,0 +1,9 @@
+model,val_accuracy
+gru_glove_512_units_0.5_drop_rmsprop,0.5734732747077942
+gru_glove_512_units_0.5_drop_adam,0.5804596543312073
+gru_glove_512_units_0.8_drop_rmsprop,0.5158199071884155
+gru_glove_512_units_0.8_drop_adam,0.5984512567520142
+gru_glove_1024_units_0.5_drop_rmsprop,0.584432065486908
+gru_glove_1024_units_0.5_drop_adam,0.5847257375717163
+gru_glove_1024_units_0.8_drop_rmsprop,0.558263897895813
+gru_glove_1024_units_0.8_drop_adam,0.6004605889320374
